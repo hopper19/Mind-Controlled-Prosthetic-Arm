@@ -10,8 +10,6 @@ Date: October 4, 2022
 
 #define NUM_SERVO 3
 
-// Note servo 0 = vertial axis servo
-//      servo 1 = horizontal axis servo
 Servo myservo[NUM_SERVO];
 
 // Initialize the integer variables
